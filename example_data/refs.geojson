@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+
+"features": [
+{ "type": "Feature",
+  "properties": {
+    "Trail1": "2017-06-09T08:49:45Z/2017-06-09T08:51:15Z"
+  },
+
+  "geometry": { "type": "LineString", "coordinates": [ [ 145.11288166666665, -37.84672333333333 ], [ 145.112097996, -37.8478820612 ] ] }
+},
+{ "type": "Feature",
+  "properties": {
+    "Trail2": "2017-06-09T08:52:33Z/2017-06-09T08:54:03Z"
+  },
+  "geometry": { "type": "LineString", "coordinates": [ [ 145.11199666666667, -37.848108333333336 ], [ 145.112550355144208, -37.849351952250451 ] ] }
+}
+]
+}
